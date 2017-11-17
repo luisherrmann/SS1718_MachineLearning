@@ -1,0 +1,7 @@
+#Latex Files:
+*.pdf
+*.aux
+*.log
+
+#Vim backup files
+*~
